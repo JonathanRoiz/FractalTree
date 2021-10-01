@@ -1,0 +1,10 @@
+#canvas {
+  display: flex;
+  background-color: #0051;
+  justify-content: center;
+}
+
+#slider {
+  display: flex;
+  justify-content: center;
+}
